@@ -11,8 +11,8 @@ $ npm install codeyourdreams
 ## Usage
 
 ```js
-cyd = require('codeyourdreams')
+codeyourdreams = require('codeyourdreams')
 
-cyd.codeYourDreams()
+console.log(codeyourdreams);
 // => "Code Your Dreams"
 ```

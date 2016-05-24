@@ -1,5 +1,5 @@
 'use strict';
-module.exports = codeyourdreams;
+module.exports = codeYourDreams;
 
 function codeYourDreams() {
 	return "Code Your Dreams";
