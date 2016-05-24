@@ -1,6 +1,6 @@
 ## Code Your Dreams
 
-Code your dreams
+![Code your dreams](http://i.imgur.com/EVJhP0z.png)
 
 ## Install
 
