@@ -1,10 +1,6 @@
 ## Code Your Dreams
 
-String left pad
-
-We are now using O(log(n)) algorithm.
-
-[![Build Status][travis-image]][travis-url]
+Code your dreams
 
 ## Install
 

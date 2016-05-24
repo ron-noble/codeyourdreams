@@ -1,6 +1,6 @@
 {
   "name": "codeyourdreams",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Code Your Dreams",
   "main": "index.js",
   "keywords": [
@@ -9,7 +9,7 @@
     "dream"
   ],
   "repository": {
-    "url": "",
+    "url": "git@github.com:ron-noble/codeyourdreams.git",
     "type": "git"
   },
   "author": "dat boi",
