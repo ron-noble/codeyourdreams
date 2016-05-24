@@ -1,0 +1,23 @@
+{
+  "name": "codeyourdreams",
+  "version": "1.0.0",
+  "description": "Code Your Dreams",
+  "main": "index.js",
+  "keywords": [
+    "codeyourdreams",
+    "codeyourdream",
+    "dream"
+  ],
+  "repository": {
+    "url": "",
+    "type": "git"
+  },
+  "author": "dat boi",
+  "maintainers": [
+    {
+      "name": "Oh Shit Waddup",
+      "email": "datboi@gmail.com"
+    }
+  ],
+  "license": "WTFPL"
+}
